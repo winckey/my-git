@@ -3,10 +3,3 @@ token:
   re_expiration_time: 8640000000
   secret: usertoken123123123asdfasdfasdfasdfasdfhhghdfghdfghdfghdfghdfghdfghdfghdfghdfghdfghdfghdfghdfghdfsdfsdfsdfsdfsdfsdfsdfsdfsdfsdfsdffghdfghdfghdfghdfghdfghdfghdfghdfghdfghdfghdfghdfghdfsdfsdfsdfsdfsdfsdfsdfsdfsdfsdfsdf
 
-spring:
-  datasource:
-    url: http://k6e102.p.ssafy.io:3306/msa_db?serverTimezone=UTC&characterEncoding=UTF-8
-    driver-class-name: com.mysql.cj.jdbc.Driver
-    hikari:
-      username: root
-      password: plainYorgurt%
