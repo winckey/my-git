@@ -1,1 +1,5 @@
-test: modong
+token:
+  expiration_time: 86400123
+  re_expiration_time: 8640000001
+  secret: usertoken123123123asdfasdfasdfasdfasdfhhghdfghdfghdfghdfghdfghdfghdfghdfghdfghdfghdfghdfghdfghdfsdfsdfsdfsdfsdfsdfsdfsdfsdfsdfsdffghdfghdfghdfghdfghdfghdfghdfghdfghdfghdfghdfghdfghdfsdfsdfsdfsdfsdfsdfsdfsdfsdfsdfsdf
+
