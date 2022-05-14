@@ -4,3 +4,4 @@ token:
   secret: usertoken123123123asdfasdfasdfasdfasdfhhghdfghdfghdfghdfghdfghdfghdfghdfghdfghdfghdfghdfghdfghdfsdfsdfsdfsdfsdfsdfsdfsdfsdfsdfsdffghdfghdfghdfghdfghdfghdfghdfghdfghdfghdfghdfghdfghdfsdfsdfsdfsdfsdfsdfsdfsdfsdfsdfsdf
   
   springdoc: 
+example.jdbc.url=127.0.0.1 example.jdbc.port=3306 example.jdbc.user=user example.jdbc.password=password
